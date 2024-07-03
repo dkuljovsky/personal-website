@@ -13,5 +13,8 @@
 	"dependencies": {
 		"nuxt": "^3.12.3",
 		"vue": "latest"
+	},
+	"optionalDependencies": {
+		"@rollup/rollup-linux-x64-gnu": "4.6.1"
 	}
 }
